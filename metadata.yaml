@@ -1,0 +1,37 @@
+_repo: Loveday-s-history-b-A-tale-of-many-changes_72722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72722'
+language: en
+pgterms:marc905: 20231225172946guernsey
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw & Co., $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Stanton-Corbet chronicles.
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603 -- Fiction'
+- !lcsh 'Reformation -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Loveday''s history : $b A tale of many changes'
+url: http://www.gutenberg.org/ebooks/72722
